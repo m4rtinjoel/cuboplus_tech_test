@@ -1,4 +1,4 @@
-###CUBO+Technicaltest
+### CUBO+ Technical test
 
 [video] (https://youtu.be/9QNvKxyGcHc)
 
